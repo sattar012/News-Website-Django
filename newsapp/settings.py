@@ -131,3 +131,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
 MEDIA_URL = '/media/'
+
+
+RAZORPAY_API_KEY = 'rzp_test_G712qPWGZPoTsp'
+RAZORPAY_API_SECRET_KEY = 'sgDxH4DWmS3kLNN4i5GYjj7g'
